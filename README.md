@@ -13,7 +13,7 @@ Welcome to the Soccer Insights Project! My name is Habtemariam Kibru, and I've c
    - Utilized popular Python libraries for data analysis and machine learning.
 
 2. **Data Integration:**
-   - Created a SQLite database.
+   - Load a SQLite database.
    - Loaded the CSV files into pandas DataFrames.
    - Inserted the DataFrames as tables into the SQLite database.
 
@@ -24,6 +24,7 @@ Welcome to the Soccer Insights Project! My name is Habtemariam Kibru, and I've c
 4. **Exploratory Data Analysis (EDA):**
    - Addressed key questions:
      - Who are the players with the best finishing?
+       ![Best Finishing Players](images/best_finishing_players.jpg)
      - Which teams improved the most over the time period?
      - Who are the players with the most penalties?
      - What team attributes lead to the most victories?
