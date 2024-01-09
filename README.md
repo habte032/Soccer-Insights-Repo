@@ -13,7 +13,7 @@ Welcome to the Soccer Insights Project! My name is Habtemariam Kibru, and I've c
    - Utilized popular Python libraries for data analysis and machine learning.
 
 2. **Data Integration:**
-   - Load a SQLite database.
+   - Loaded a SQLite database.
    - Loaded the CSV files into pandas DataFrames.
    - Inserted the DataFrames as tables into the SQLite database.
 
@@ -24,14 +24,19 @@ Welcome to the Soccer Insights Project! My name is Habtemariam Kibru, and I've c
 4. **Exploratory Data Analysis (EDA):**
    - Addressed key questions:
      - Who are the players with the best finishing?
-     - ![Screenshot 2024-01-08 131652](https://github.com/habte032/Soccer-Insights-Repo/assets/101426508/aea08197-885c-4d0a-9c6b-95b74b4cca31)
+     -![BestFinisher](https://github.com/habte032/Soccer-Insights-Repo/assets/101426508/11721bf5-53d6-458d-9fe3-aa0b4a00eb2b)
 
      - Which teams improved the most over the time period?
      -  ![Screenshot 2024-01-08 131652](https://github.com/habte032/Soccer-Insights-Repo/assets/101426508/aea08197-885c-4d0a-9c6b-95b74b4cca31)
 
      - Who are the players with the most penalties?
+     - ![mostPen](https://github.com/habte032/Soccer-Insights-Repo/assets/101426508/9026564d-6c6e-4406-9707-c10eb859c366)
+
      - What team attributes lead to the most victories?
+     - ![mostWin](https://github.com/habte032/Soccer-Insights-Repo/assets/101426508/f1d014ff-d4f2-4553-b839-2893c9936734)
+
      - What is the total number of goals scored in each league from 2008-2016?
+     - ![topLeagueGoal](https://github.com/habte032/Soccer-Insights-Repo/assets/101426508/40e56cb9-2eba-48d7-af1a-cebc2982bfc4)
 
 5. **Limitations:**
    - Acknowledged limitations in the dataset and analysis.
