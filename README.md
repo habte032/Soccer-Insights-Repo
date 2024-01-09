@@ -24,8 +24,11 @@ Welcome to the Soccer Insights Project! My name is Habtemariam Kibru, and I've c
 4. **Exploratory Data Analysis (EDA):**
    - Addressed key questions:
      - Who are the players with the best finishing?
-       ![Best Finishing Players](images/best_finishing_players.jpg)
+     - ![Screenshot 2024-01-08 131652](https://github.com/habte032/Soccer-Insights-Repo/assets/101426508/aea08197-885c-4d0a-9c6b-95b74b4cca31)
+
      - Which teams improved the most over the time period?
+     -  ![Screenshot 2024-01-08 131652](https://github.com/habte032/Soccer-Insights-Repo/assets/101426508/aea08197-885c-4d0a-9c6b-95b74b4cca31)
+
      - Who are the players with the most penalties?
      - What team attributes lead to the most victories?
      - What is the total number of goals scored in each league from 2008-2016?
